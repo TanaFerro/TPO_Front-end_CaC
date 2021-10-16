@@ -1,0 +1,12 @@
+
+# Traen los cambios realizados por otro
+git pull origin main
+
+# Subir las modificaciones realizadas
+
+git add .
+git commit -m "Descripciones de la pagina"
+git push origin main
+
+# Ver el estado
+git status -s
